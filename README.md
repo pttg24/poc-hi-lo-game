@@ -8,3 +8,13 @@ How to run:
  - run `dotnet build`
  - run `dotnet run`
  - enjoy!
+
+## Screenshots
+
+Single Player
+
+![GitHub Logo](/screenshot_singleplayer.png)
+
+Multi Player
+
+![GitHub Logo](/screenshot_multiplayer.png)
